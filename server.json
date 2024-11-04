@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "InferusAnima",
+            "address": "https://anisette-v3-server-ryly.onrender.com"
+        }
+    ]
+}
